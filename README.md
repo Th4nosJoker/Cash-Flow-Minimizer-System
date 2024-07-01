@@ -1,4 +1,4 @@
-# Cash-Flow-Minimizer
+# Cash-Flow-Minimizer-System
 
 # Welcome to the Cash Flow Minimizer System README !!
 
